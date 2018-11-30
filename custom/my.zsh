@@ -11,5 +11,4 @@
 bindkey -v
 stty -ixon
 bindkey '\eOR'  autosuggest-accept
-
-
+set keymap vi-command
